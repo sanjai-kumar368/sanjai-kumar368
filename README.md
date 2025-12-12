@@ -43,14 +43,10 @@ Git | GitHub | VS Code | Linux Basics
 
  Connect With Me
 - Email: **kit27.ad48@gmail.com**
-- LinkedIn: *your-linkedin-url*
+- LinkedIn: *https://www.linkedin.com/in/sanjai-kumar-640790348/*
 
 ---
 
-GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" alt="GitHub Stats" />
-</p>
 
 ---
 
