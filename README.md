@@ -1,62 +1,79 @@
-<h1 align="center">Hi 👋, I'm Sanjai kumar</h1>
-<h3 align="center">A Passionate Developer & Tech Enthusiast</h3>
+## Hi, I'm Sanjai Kumar
+
+I am a B.Tech student and aspiring software developer with a strong interest in web development and machine learning.  
+I enjoy building practical applications, learning new technologies, and improving my skills through hands-on projects.
 
 ---
 
- About Me
-- 🔭 I’m currently working on **Machine Learning & Web Development Projects**
-- 🌱 I’m learning **Flask, Machine Learning, Deep Learning**
-- 💡 I love solving problems and building useful applications
-- 🎯 Goal: Become a strong full-stack + ML developer  
-- ⚡ Fun fact: I code with coffee and motivation from Batman 🦇
+## About Me
+
+- Currently working on web development and machine learning projects  
+- Learning Flask, machine learning fundamentals, and deep learning concepts  
+- Interested in building secure, user-focused applications  
+- Career goal: Become a competent full-stack developer with ML expertise  
 
 ---
 
- Tech Stack
+## Technical Skills
 
-**Languages:**  
-Python | JavaScript | HTML | CSS | C  
+### Programming Languages
+- Python  
+- JavaScript  
+- HTML  
+- CSS  
+- C  
 
-**Frameworks & Tools:**  
-Flask | Bootstrap | NumPy | Pandas | Scikit-learn  
+### Frameworks and Libraries
+- Flask  
+- Bootstrap  
+- NumPy  
+- Pandas  
+- Scikit-learn  
 
-**Databases:**  
-MySQL | SQLite  
+### Databases
+- MySQL  
+- SQLite  
 
-**Others:**  
-Git | GitHub | VS Code | Linux Basics  
-
----
-
- Featured Projects
-
-- 🔹 **Reci-spize** – A multicultural recipe website  
-  👉 *Dynamic sections, clickable recipes, contact page*
-
-- 🔹 **Crop Price Predictor** – ML model using rainfall, yield & demand  
-  👉 *Predictive analytics & regression model*
-
-- 🔹 **Secure Flask Auth App**  
-  👉 *Registration, Login, Sessions, XSS/CSRF protection*
-
----
-
- Connect With Me
-- Email: **kit27.ad48@gmail.com**
-- LinkedIn: *https://www.linkedin.com/in/sanjai-kumar-640790348/*
+### Tools and Platforms
+- Git  
+- GitHub  
+- VS Code  
+- Linux (basic usage)  
 
 ---
 
+## Featured Projects
+
+### Reci-spize – Global Recipe Website
+A recipe website showcasing dishes from multiple cuisines with a clean UI and categorized sections.  
+Technologies: HTML, CSS, GitHub Pages  
+
+### E-commerce  website for bags
+A website which helps people to shop online many varities of comfortable and bags for both men and women
+Technologies: HTML,CSS,Flask,SQLite,GitHub pages
+
+### LLM-Based Career Navigator (Research Paper)
+A research project focused on using large language models to guide users in career exploration and decision-making.  
+The system analyzes user interests, skills, and goals to provide personalized career recommendations.
+
+Technologies: Large Language Models, Python, NLP  
 
 ---
 
-Achievements
-- ✔️ Infosys Springboard – Python Basics Certificate  
-- ✔️ Built multiple real-world projects  
-- ✔️ Strong self-learning and consistent practice  
+## Certifications and Achievements
+
+- Infosys Springboard – Python Basics Certification  
+- Built multiple academic and self-learning projects  
+- Strong foundation in problem-solving and self-learning
+- Ai for everyone
+
 
 ---
 
-Quote I Follow
-**“The only limit to our realization of tomorrow is our doubts of today.”**
+## Contact
 
+Email: sanjaikumarsasi@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sanjai-kumar-640790348/  
+GitHub: https://github.com/sanjai-kumar368  
+
+---
